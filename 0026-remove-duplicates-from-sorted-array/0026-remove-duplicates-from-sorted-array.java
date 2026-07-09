@@ -3,15 +3,12 @@ class Solution {
         if(nums.length == 0)
             return 0;
         int left = 0,right = 0;
-        while(right < nums.length)
+        for(right = 0; right < nums.length; right++)
         {
-            if(nums[left]==nums[right])
-                right++;
-            else
+            if(nums[left]!=nums[right])
             {
                 left++;
                 nums[left] = nums[right];
-                right++;
             }       
         }
         return left+1;
