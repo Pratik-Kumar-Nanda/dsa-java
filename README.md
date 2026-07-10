@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
