@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
