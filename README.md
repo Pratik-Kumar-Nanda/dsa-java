@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/1929-concatenation-of-array) |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
