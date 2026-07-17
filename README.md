@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 ## String
@@ -93,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
