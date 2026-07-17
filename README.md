@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
