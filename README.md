@@ -25,6 +25,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -43,6 +44,7 @@
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,4 +126,5 @@
 | ------- |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
