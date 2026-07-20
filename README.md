@@ -31,6 +31,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1732-find-the-highest-altitude](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1732-find-the-highest-altitude) |
@@ -100,6 +101,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
