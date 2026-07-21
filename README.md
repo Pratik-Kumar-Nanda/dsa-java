@@ -34,6 +34,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -103,6 +104,7 @@
 | [0875-koko-eating-bananas](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1095-find-in-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
 | ------- |
