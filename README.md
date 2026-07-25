@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -126,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
