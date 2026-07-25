@@ -21,6 +21,7 @@
 | [0162-find-peak-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
@@ -155,4 +158,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
