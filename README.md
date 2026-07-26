@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
@@ -147,6 +149,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
