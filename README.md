@@ -80,6 +80,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -176,4 +177,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
