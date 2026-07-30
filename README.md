@@ -85,6 +85,7 @@
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0136-single-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
