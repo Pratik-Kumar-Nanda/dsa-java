@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0020-valid-parentheses) |
+| [0520-detect-capital](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
