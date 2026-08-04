@@ -86,6 +86,7 @@
 | [0009-palindrome-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0410-split-array-largest-sum) |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
