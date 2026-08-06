@@ -40,6 +40,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0875-koko-eating-bananas) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0735-asteroid-collision) |
 ## Bit Manipulation
 |  |
 | ------- |
