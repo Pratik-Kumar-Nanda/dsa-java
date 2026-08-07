@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Kumar-Nanda/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
@@ -106,6 +107,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0058-length-of-last-word) |
@@ -204,6 +206,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 ## String Matching
 |  |
