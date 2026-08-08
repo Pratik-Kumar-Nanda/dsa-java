@@ -67,6 +67,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@
 | [0020-valid-parentheses](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0520-detect-capital](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0520-detect-capital) |
 ## Stack
 |  |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 ## String Matching
 |  |
