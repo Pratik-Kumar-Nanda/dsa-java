@@ -71,6 +71,7 @@
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0560-subarray-sum-equals-k) |
@@ -113,6 +114,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0520-detect-capital) |
 ## Stack
 |  |
@@ -211,6 +213,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
