@@ -104,6 +104,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
 ## String
@@ -114,6 +115,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0125-valid-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
