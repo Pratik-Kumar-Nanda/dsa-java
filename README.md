@@ -70,6 +70,7 @@
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -116,6 +117,7 @@
 | [0058-length-of-last-word](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -197,6 +199,7 @@
 | [0075-sort-colors](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0645-set-mismatch) |
