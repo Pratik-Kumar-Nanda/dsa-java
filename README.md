@@ -70,6 +70,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@
 | [0058-length-of-last-word](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0520-detect-capital) |
