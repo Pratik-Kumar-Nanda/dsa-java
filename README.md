@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@
 | [0050-powx-n](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -246,4 +248,24 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pratik-Kumar-Nanda/dsa-java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
